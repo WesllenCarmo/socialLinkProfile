@@ -15,10 +15,11 @@ This project is a challenge from the Frontend Mentor website, a platform where d
 
 ## Skills
 
-[![](https://skillicons.dev/icons?i=react,html)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
 
 - React.js
 - HTML5
+- CSS3
   
 ## Support
 
