@@ -1,4 +1,3 @@
-
 # Social Links Profile - Frontend Mentor Challenge
 
 The project is a single-page application featuring a centered social links card.
@@ -8,6 +7,7 @@ This project is a challenge from the Frontend Mentor website, a platform where d
 ## Features
 
 - Use of React props to build a reusable component
+- Responsive design for mobile devices
 
 ## What I learned
 
@@ -28,5 +28,3 @@ If you have any questions or suggestions about this project, feel free to contac
 ## Authors
 
 - [@WesllenCarmo](https://www.github.com/WesllenCarmo) - Web Developer
-
-
